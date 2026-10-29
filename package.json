@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-dubai-land",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Dubai Land Department (DLD) — Dubai real-estate open data.",
   "type": "module",
   "main": "lib/index.js",
@@ -28,6 +28,6 @@
     "slug": "dubai-land",
     "gatewaySlug": "dubai-land",
     "sourceHash": "v1-4f6d021490d7fc7d8498f03dbabacc74402186c5f8e8152da182192266645aed",
-    "sourceCommit": "0b3faaa4d85299a961dd86dea75a0f0e1dad280c"
+    "sourceCommit": "bb047243cf27f32453103de186b8e6a8b6a1ce79"
   }
 }
